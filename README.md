@@ -1,6 +1,4 @@
 # thirdProject
-# firstProject
-
 <table>
   <tr>
     <th>프로젝트 명</th>
