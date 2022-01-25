@@ -1,4 +1,4 @@
-# thirdProject
+# 나의 세번째 자바 프로젝트
 <table>
   <tr>
     <th>프로젝트 명</th>
